@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: Medical-Chatbot
+Version: 1.0.0
+Author: Pratyush Kumar Jha
+License-File: LICENSE
+Requires-Dist: ctransformers
+Requires-Dist: sentence_transformers
+Requires-Dist: transformers
+Requires-Dist: langchain
+Requires-Dist: flask
+Requires-Dist: pinecone-client
+Requires-Dist: langchain-pinecone
+Requires-Dist: pypdf
+Requires-Dist: langchain-community
+Dynamic: author
+Dynamic: requires-dist
